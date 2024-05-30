@@ -1,0 +1,101 @@
+.head {
+    display: flex;
+    flex-direction: row;
+background-color: white;
+}
+.hovor{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-left: 80px;
+    list-style: none;
+   
+
+}
+.x{
+    color: aliceblue;
+    justify-content: space-around;
+}
+
+.j{
+    background-image: url(https://junotoys-html.themerex.net/images/bg.png);
+    background-size: 1250px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+}
+
+.p{
+    color: white;
+    margin: 30px 70px 0px 0px;
+}
+.h{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    margin-left: 70px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.b{
+    background-image: url(https://junotoys-html.themerex.net/images/55.png);
+    background-size: 120px;
+    background-repeat: no-repeat;
+    color: black;
+    align-items: center;
+    width: 180px;
+    height: 87px;
+    margin-left: 200px;
+    /* margin-top: 40px; */
+    cursor: pointer;
+
+}
+.q{
+    color: black;
+    font-family: monospace;
+    margin-left: 70px;
+    font-size: 15px;
+}
+
+.b p{
+    padding-left: 8px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.b:hover{
+    scale: 1.2;
+}
+
+.b p:hover{
+    color: aqua;
+}
+.f{
+    margin-top: 160px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.same{
+    margin-right: 20px;
+}
+.hovor a{
+    text-decoration: none;
+    color: black;
+}
+
+.hovor li:hover{
+    scale: 1.2;
+    color: aqua;
+}
+
+.hovor a:hover{
+    /* scale: 1.2; */
+    color: white;
+    background-color: #F5B120;
+    padding: 10px;
+    border-radius: 10px;
+}
