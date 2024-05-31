@@ -99,3 +99,134 @@ background-color: white;
     padding: 10px;
     border-radius: 10px;
 }
+.k{
+    background-image: url(https://junotoys-html.themerex.net/images/buttons/large-5.png);
+    background-size: 140px;
+    background-repeat: no-repeat;
+    color: black;
+    align-items: center;
+    width: 250px;
+    height: 87px;
+     margin-left: 40px;
+    cursor: pointer;
+    margin-top: 150px;
+}
+
+.P{
+       /* text-align: center; */
+       margin-top: 20px;
+}
+.t{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    font-size: 20px;
+    text-align: center;
+}
+.t :hover{
+    scale: 0.9;
+}
+.fmain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #EA624C;
+     /* border: solid 2px black;  */
+    margin-top: 20px;
+}
+.c li{
+    font-size: 20px;
+}
+.c a{
+    font-size: 20px;
+    margin-left: 10px;
+    line-height: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.btmmain{
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.a{
+    margin: 20px 0px 0px 20px;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 1.0rem;
+}
+
+.a:hover{
+    scale: 1.2;
+    color: aqua;
+}
+
+.a p:hover{
+    color: aqua;
+}
+
+.k:hover{
+    scale: 1.2;
+}
+.r{
+    background-color: white; 
+    /* border: solid 2px black;  */
+    text-align: center;
+    border-radius: 6px; 
+    /* box-shadow: 5px 5px 5px; */
+}
+.row1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;   
+}
+.row2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;  
+}
+.r:hover{
+    color: black;
+    scale: 1.1;   
+}
+.r a:hover{
+ color: lightseagreen;   
+}
+.cart{
+    /* background-color: antiquewhite; */
+    text-align: center;
+    font-family:   monospace;
+    font-weight: 300;
+    font-style: italic;
+    /* border: solid 3px black;  */
+    padding: 10px;
+    margin-top: 10px;
+}
+.s{
+    padding: 50px;
+    text-align: center;
+
+    margin-left: 50px;
+    
+}
+.logoimg{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    
+}
+.fontaw{
+    font-size: 40px;
+    margin-left: 20px;
+    cursor: pointer;
+    color: black;
+}
+.fontaw:hover{
+color: white;
+scale: 1.2;
+}
